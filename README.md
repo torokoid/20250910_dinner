@@ -101,7 +101,11 @@ p.note { display: none; }
 
 
 
-
+.media-container {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+}
 
 .responsive-media {
   width: 100%;
