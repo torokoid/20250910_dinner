@@ -209,6 +209,7 @@ Turn your screen sideways to see the entire background image.
 <br><br>
 <a href="20250911_001.png" target="_blank"><img src="20250911_001.png" alt="サンプル画像" class="responsive-media"></a>
 
+<br><br>
 <div class="image-container">
 <a href="20250911_002.png" target="_blank"><img src="20250911_002.png" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250911_003.png" target="_blank"><img src="20250911_003.png" alt="サンプル画像" class="responsive-media"></a>
