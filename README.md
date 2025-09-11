@@ -138,12 +138,11 @@ p.note { display: none; }
 <body>
 
 
-<!--
+
 <p class="note">
-モバイル端末をお使いの場合は、画面を横向きにすると
-背景画像の横方向がご覧頂けます。
+Turn your screen sideways to see the entire background image.
 </p>
--->
+
 
 <!--ここ上は、ほぼそのまま使います！-->
 
