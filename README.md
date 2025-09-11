@@ -100,12 +100,8 @@ p.note { display: none; }
 }
 
 
-    
-.media-container {
-  width: 100%;
-  max-width: 900px;
-  margin: 0 auto;
-}
+
+
 
 .responsive-media {
   width: 100%;
@@ -127,7 +123,21 @@ p.note { display: none; }
   height: 100%;
   border: none;
 }
-    
+
+.image-container {
+  display: flex; /* 子要素を横並びにする */
+  justify-content: space-between; /* 子要素間にスペースを設ける */
+  align-items: center; /* 子要素を垂直方向に中央揃えにする */
+}
+
+.image-container a {
+  width: 48%; /* 親要素の幅の約半分に設定 */
+}
+
+.responsive-media {
+  max-width: 100%; /* 親要素の幅に合わせて画像を縮小 */
+  height: auto; /* 縦横比を維持 */
+}
     
 </style>
 
