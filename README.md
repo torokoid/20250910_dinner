@@ -185,6 +185,8 @@ Turn your screen sideways to see the entire background image.
     
 <h2><span class="yellow">5th dish.</span></h2>
 <a href="20250911_008.JPG" target="_blank"><img src="20250911_008.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">Hotel lobby.</span></h2>
 <a href="20250911_009.JPG" target="_blank"><img src="20250911_009.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250911_010.JPG" target="_blank"><img src="20250911_010.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250911_011.JPG" target="_blank"><img src="20250911_011.JPG" alt="サンプル画像" class="responsive-media"></a>
